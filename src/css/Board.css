@@ -1,0 +1,15 @@
+.game-board {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+
+#status {
+    text-align: center;
+}
+
+.square-box {
+    margin: 20px;
+}
